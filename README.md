@@ -1,2 +1,2 @@
-# aadvark
-Aadvark project for CS 428
+# Aardvark
+Aardvark project for CS 428
